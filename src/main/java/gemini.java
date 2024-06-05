@@ -44,6 +44,7 @@ public class gemini {
                 }
             default:
                 throw new IllegalArgumentException("Operator tidak valid!");
+                ambasing
         }
     }
 }
